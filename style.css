@@ -1,0 +1,29 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+.banner{
+    text-align: center;
+    color: white;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+#section1{
+    padding-top: 150px;
+}
+.banner h1{
+    font-size: 80px;
+}
+.banner p{
+    font-size: 30px;
+}
+.link-buttton{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(230, 7, 25, 0.726),tomato);
+    padding: 10px 20px;
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+}
