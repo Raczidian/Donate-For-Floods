@@ -106,6 +106,15 @@ h2{
     height: 700px;
     border-radius: 10px;
 }
+#point-1{
+    background-color: rgba(95, 158, 160, 0.63);
+}
+#point-2{
+    background-color: rgba(85, 107, 47, 0.363);
+}
+#point-3{
+    background-color: rgba(127, 255, 212, 0.281);
+}
 #email-subscription{
     text-align: center;
     background-color: rgba(189, 183, 107, 0.493);
@@ -131,8 +140,8 @@ h2{
 footer{
     background-color: black;
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 footer h1{
     font-family: cursive;
